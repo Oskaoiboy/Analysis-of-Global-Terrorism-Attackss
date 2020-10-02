@@ -1,0 +1,164 @@
+,Country,Last,Previous,Reference
+0,Afghanistan,9.6,9.39,Dec/18
+1,Nigeria,8.6,8.66,Dec/18
+2,Pakistan,7.89,8.18,Dec/18
+3,India,7.52,7.57,Dec/18
+4,Philippines,7.14,7.18,Dec/18
+5,Egypt,6.79,7.35,Dec/18
+6,Mali,6.65,6.02,Dec/18
+7,Central African Republic,6.62,6.72,Dec/18
+8,South Sudan,6.32,6.76,Dec/18
+9,Colombia,5.91,5.61,Dec/18
+10,Kenya,5.76,6.11,Dec/18
+11,Niger,5.6,6,Dec/18
+12,Mozambique,5.54,4.58,Dec/18
+13,Burkina Faso,5.42,4.81,Dec/18
+14,Ethiopia,5.35,5.63,Dec/18
+15,Bangladesh,5.21,5.7,Dec/18
+16,Burundi,5.1,5.32,Dec/18
+17,Indonesia,5.07,4.54,Dec/18
+18,Russia,4.9,5.23,Dec/18
+19,Iran,4.72,4.4,Dec/18
+20,South Africa,4.51,4.26,Dec/18
+21,Lebanon,4.39,5.15,Dec/18
+22,Greece,4.17,4.29,Dec/18
+23,Venezuela,4.1,3.67,Dec/18
+24,Uganda,3.96,3.93,Dec/18
+25,Tunisia,3.94,4.09,Dec/18
+26,Belgium,3.64,4.06,Dec/18
+27,Sri Lanka,3.57,4.05,Dec/18
+28,Algeria,3.41,3.76,Dec/18
+29,Spain,3.35,4.02,Dec/18
+30,Bahrain,3.2,3.88,Dec/18
+31,Italy,3.11,2.74,Dec/18
+32,Nicaragua,2.95,0.75,Dec/18
+33,Peru,2.84,2.95,Dec/18
+34,Ireland,2.69,3.05,Dec/18
+35,Australia,2.65,2.83,Dec/18
+36,Brazil,2.53,1.39,Dec/18
+37,Kuwait,2.49,3.13,Dec/18
+38,Netherlands,2.35,1.96,Dec/18
+39,Kosovo,2.26,2.69,Dec/18
+40,Finland,2.03,2.5,Dec/18
+41,Argentina,1.68,1.68,Dec/18
+42,Kazakhstan,1.57,2.23,Dec/18
+43,Kyrgyzstan,1.47,1.72,Dec/18
+44,Papua New Guinea,1.36,2.04,Dec/18
+45,Guatemala,1.33,0.21,Dec/18
+46,Senegal,1.19,1.01,Dec/18
+47,Laos,1.03,1.68,Dec/18
+48,Montenegro,1,0.04,Dec/18
+49,Honduras,0.99,1.71,Dec/18
+50,Denmark,0.96,0.82,Dec/18
+51,Azerbaijan,0.7,0.96,Dec/18
+52,Gabon,0.55,1.2,Dec/18
+53,Jamaica,0.47,1.09,Dec/18
+54,Sierra Leone,0.46,1.07,Dec/18
+55,Cyprus,0.42,1.21,Dec/18
+56,Djibouti,0.32,0.71,Dec/18
+57,Macedonia,0.3,0.65,Dec/18
+58,Latvia,0.23,0.46,Dec/18
+59,Dominican Republic,0.18,0.38,Dec/18
+60,Uruguay,0.17,0.34,Dec/18
+61,Estonia,0.12,0.23,Dec/18
+62,Serbia,0.12,0.23,Dec/18
+63,Lesotho,0.1,0.19,Dec/18
+64,Slovakia,0.06,0.12,Dec/18
+65,Guyana,0.04,0.08,Dec/18
+66,Iceland,0.03,0.06,Dec/18
+67,Trinidad and Tobago,0.02,0.12,Dec/18
+68,Bhutan,0.01,0.02,Dec/18
+69,Benin,0,0,Dec/18
+70,Cambodia,0,0.02,Dec/18
+71,Croatia,0,0.01,Dec/18
+72,East Timor,0,0,Dec/18
+73,Equatorial Guinea,0,0,Dec/18
+74,Gambia,0,0,Dec/18
+75,Mauritania,0,0,Dec/18
+76,Mongolia,0,0,Dec/18
+77,North Korea,0,0,Dec/18
+78,Portugal,0,0,Dec/18
+79,Singapore,0,0,Dec/18
+80,Swaziland,0,0,Dec/18
+81,Turkmenistan,0,0,Dec/18
+82,Iraq,9.24,9.75,Dec/18
+83,Syria,8.01,8.32,Dec/18
+84,Somalia,7.8,8.02,Dec/18
+85,Yemen,7.26,7.53,Dec/18
+86,Congo,7.04,7.06,Dec/18
+87,Libya,6.77,6.99,Dec/18
+88,Cameroon,6.62,6.62,Dec/18
+89,Turkey,6.53,7.04,Dec/18
+90,Thailand,6.03,6.25,Dec/18
+91,Sudan,5.81,6.18,Dec/18
+92,United States,5.69,6.07,Dec/18
+93,Ukraine,5.55,6.05,Dec/18
+94,Myanmar,5.51,5.92,Dec/18
+95,United Kingdom,5.41,5.61,Dec/18
+96,Saudi Arabia,5.24,5.48,Dec/18
+97,Palestine,5.18,5.33,Dec/18
+98,Nepal,5.09,5.3,Dec/18
+99,France,5.01,5.48,Dec/18
+100,Chad,4.76,4.75,Dec/18
+101,Israel,4.53,4.58,Dec/18
+102,China,4.47,5.11,Dec/18
+103,Germany,4.25,4.6,Dec/18
+104,Chile,4.12,3.45,Dec/18
+105,Mexico,4.08,3.53,Dec/18
+106,Tajikistan,3.95,2.23,Dec/18
+107,Angola,3.78,4.47,Dec/18
+108,Canada,3.59,3.53,Dec/18
+109,Sweden,3.45,3.94,Dec/18
+110,Bolivia,3.39,0,Dec/18
+111,Tanzania,3.27,3.37,Dec/18
+112,Paraguay,3.12,3.44,Dec/18
+113,Jordan,3.09,3.4,Dec/18
+114,Rwanda,2.95,2.18,Dec/18
+115,Zimbabwe,2.83,1.57,Dec/18
+116,Republic of the Congo,2.69,3.37,Dec/18
+117,Ivory Coast,2.6,3.28,Dec/18
+118,Malaysia,2.5,2.7,Dec/18
+119,Ecuador,2.46,1.47,Dec/18
+120,Japan,2.29,2.93,Dec/18
+121,Haiti,2.18,1.71,Dec/18
+122,Madagascar,1.96,2.61,Dec/18
+123,Austria,1.66,1.85,Dec/18
+124,Ghana,1.56,0.16,Dec/18
+125,Bosnia and Herzegovina,1.39,1.34,Dec/18
+126,Georgia,1.34,1.42,Dec/18
+127,Morocco,1.22,0.04,Dec/18
+128,Armenia,1.17,1.69,Dec/18
+129,Taiwan,1.01,0.94,Dec/18
+130,Vietnam,1,0.66,Dec/18
+131,Guinea,0.97,0.32,Dec/18
+132,Czech Republic,0.87,1.56,Dec/18
+133,Malawi,0.66,0.46,Dec/18
+134,Poland,0.48,0.72,Dec/18
+135,Lithuania,0.46,0,Dec/18
+136,Albania,0.42,1.01,Dec/18
+137,Bulgaria,0.37,0.32,Dec/18
+138,Zambia,0.31,0.66,Dec/18
+139,South Korea,0.3,0.29,Dec/18
+140,Switzerland,0.19,0.13,Dec/18
+141,Hungary,0.18,0.36,Dec/18
+142,New Zealand,0.14,0.29,Dec/18
+143,Moldova,0.12,0.23,Dec/18
+144,Liberia,0.11,0.21,Dec/18
+145,Norway,0.08,0.15,Dec/18
+146,United Arab Emirates,0.05,0.11,Dec/18
+147,Panama,0.04,0.08,Dec/18
+148,Qatar,0.03,0.06,Dec/18
+149,Uzbekistan,0.02,0.04,Dec/18
+150,Belarus,0,0,Dec/18
+151,Botswana,0,0,Dec/18
+152,Costa Rica,0,0,Dec/18
+153,Cuba,0,0,Dec/18
+154,El Salvador,0,0,Dec/18
+155,Eritrea,0,0,Dec/18
+156,Guinea Bissau,0,0,Dec/18
+157,Mauritius,0,0,Dec/18
+158,Namibia,0,0,Dec/18
+159,Oman,0,0,Dec/18
+160,Romania,0,0,Dec/18
+161,Slovenia,0,0,Dec/18
+162,Togo,0,0,Dec/18
